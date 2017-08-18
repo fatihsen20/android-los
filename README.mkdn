@@ -8,11 +8,11 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u https://github.com/OneDeveloperOrganization-MTK/android-los.git -b cm13.0
+    repo init -u https://github.com/OneDeveloperOrganization-MTK/android-los.git -b cm-13.0
 
 Then to sync up:
 
-    repo sync 
+    repo sync --force-sync
 
 Please see the [LineageOS Wiki](http://wiki.lineageos.org/) for building instructions.
 
