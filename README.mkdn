@@ -1,0 +1,27 @@
+LineageOS
+
+Getting Started
+---------------
+
+To get started with Android/LineageOS, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+To initialize your local repository using the LineageOS trees, use a command like this:
+
+    repo init -u https://github.com/OneDeveloperOrganization-MTK/android-los.git -b cm13.0
+
+Then to sync up:
+
+    repo sync 
+
+Please see the [LineageOS Wiki](http://wiki.lineageos.org/) for building instructions.
+
+For more information on this Github Organization and how it is structured, 
+please [read the wiki article](http://wiki.lineageos.org/w/Github_Organization)
+
+Buildbot
+--------
+
+All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
+
+You can view the current build statuses at [LineageOS Jenkins](http://jenkins.lineageos.org/)
