@@ -38,8 +38,8 @@
   <project path="device/generic/mips" name="LineageOS/android_device_generic_mips" groups="pdk" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" />
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" />
-  <project path="device/gm/etab5" name="OneDeveloperOrganization-MTK/android_device_gm_etab5" />
-  <project path="vendor/gm/etab5" name="OneDeveloperOrganization-MTK/android_vendor_gm_etab5" />
+  <project path="device/gm/etab5" name="Quarkzz/android_device_gm_etab5" />
+  <project path="vendor/gm/etab5" name="Quarkzz/android_vendor_gm_etab5" />
   <project path="external/ahbottomnavigation" name="LineageOS/android_external_ahbottomnavigation" />
   <project path="external/android-clat" name="LineageOS/android_external_android-clat" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-mock" name="LineageOS/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
@@ -149,7 +149,7 @@
   <project path="external/zip" name="LineageOS/android_external_zip" />
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" />
   <project path="frameworks/av" name="OneDeveloperOrganization-MTK/android_frameworks_av-los" groups="pdk" />
- <project path="frameworks/base" name="OneDeveloperOrganization-MTK/android_frameworks_base-los" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/base" name="OneDeveloperOrganization-MTK/android_frameworks_base-los" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="LineageOS/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="LineageOS/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="LineageOS/android_frameworks_compile_slang" groups="pdk" />
@@ -157,7 +157,7 @@
   <project path="frameworks/minikin" name="LineageOS/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/ml" name="LineageOS/android_frameworks_ml" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/multidex" name="LineageOS/android_frameworks_multidex" groups="pdk-cw-fs,pdk-fs" />
-    <project path="frameworks/native" name="OneDeveloperOrganization-MTK/android_frameworks_native-los" groups="pdk" />
+  <project path="frameworks/native" name="OneDeveloperOrganization-MTK/android_frameworks_native-los" groups="pdk" />
   <project path="frameworks/opt/bitmap" name="LineageOS/android_frameworks_opt_bitmap" groups="pdk-fs" />
   <project path="frameworks/opt/bluetooth" name="LineageOS/android_frameworks_opt_bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/calendar" name="LineageOS/android_frameworks_opt_calendar" groups="pdk-cw-fs,pdk-fs" />
