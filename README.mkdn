@@ -25,3 +25,5 @@ Buildbot
 All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
 
 You can view the current build statuses at [LineageOS Jenkins](http://jenkins.lineageos.org/)
+
+<project path="packages/apps/OneTeam" name="Artık OneTeam ve projeler yok..."unlucky" />
